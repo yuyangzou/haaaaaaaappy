@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:constants.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\word.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:word.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\imageSrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:imageSrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\tinycolor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tinycolor.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\fireworks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fireworks.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "utils.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\utils.js",
+              "RelativeDocumentMoniker": "utils.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\utils.js",
+              "RelativeToolTip": "utils.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:57:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "word.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\word.js",
+              "RelativeDocumentMoniker": "word.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\word.js",
+              "RelativeToolTip": "word.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:55:06.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-12T05:49:49.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tinycolor.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\tinycolor.js",
+              "RelativeDocumentMoniker": "tinycolor.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\tinycolor.js",
+              "RelativeToolTip": "tinycolor.js",
+              "ViewState": "AQIAAKkEAAAAAAAAAAAAAKkEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:47:53.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "imageSrc.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\imageSrc.js",
+              "RelativeDocumentMoniker": "imageSrc.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\imageSrc.js",
+              "RelativeToolTip": "imageSrc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:47:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fireworks.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\fireworks.js",
+              "RelativeDocumentMoniker": "fireworks.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\fireworks.js",
+              "RelativeToolTip": "fireworks.js",
+              "ViewState": "AQIAABsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:46:38.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constants.js",
+              "DocumentMoniker": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\constants.js",
+              "RelativeDocumentMoniker": "constants.js",
+              "ToolTip": "C:\\Users\\think\\Downloads\\mackenzielu.github.io-main\\mackenzielu.github.io-main\\\u6253\u6B7B\u4E0D\u6539\u5C31\u8FD9\u7248\\constants.js",
+              "RelativeToolTip": "constants.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T05:43:35.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
